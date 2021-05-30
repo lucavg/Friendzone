@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "836728792093",
+    "firebase_url": "https://friendzone-c5a49.firebaseio.com",
+    "project_id": "friendzone-c5a49",
+    "storage_bucket": "friendzone-c5a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836728792093:android:78103c8b751b2391",
+        "android_client_info": {
+          "package_name": "com.gp.exorra.friendzonecomplete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836728792093-9li003lq214cn4qg3sff3ut7sl0co2o9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gp.exorra.friendzonecomplete",
+            "certificate_hash": "95a9f98fd2fc6d6129547c49e8887951727ff407"
+          }
+        },
+        {
+          "client_id": "836728792093-2c4s5hq5gatcn2nv9hbp6e8j9q9qggpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALOrnfgju2hBIvZ-LmB_gPNLJYvla4f28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836728792093-2c4s5hq5gatcn2nv9hbp6e8j9q9qggpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
